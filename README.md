@@ -24,11 +24,11 @@ Data Transparency → If data is missing, the model clearly states assumptions r
 
 🛠️ Setup & Usage
 
-# 1. Install Ollama
+### 1. Install Ollama
 ### 2. Clone this repository
 ```bash
 git clone https://github.com/sherlockmoriarity/MandA_Llama2_Model.git
-cd MandA_Llama2_Model ```
+cd MandA_Llama2_Model 
 
 ### 3. Build the Model
 ollama create MandA -f ./MandA

@@ -32,3 +32,6 @@ cd MandA_Llama2_Model ```
 
 ### 3. Build the Model
 ollama create MandA -f ./MandA
+
+### 4. Run the Model
+ollama run MandA
